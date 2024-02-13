@@ -1,0 +1,29 @@
+---
+test-cases:
+  - summary: |
+      Проверка поиска товаров по действительному наименованию
+    status: pass
+
+ - summary: |
+      Проверка поиска товаров по частичному наименованию
+    status: pass
+
+- summary: |
+      Добавление товара в корзину
+    status: pass
+
+- summary: |
+      Удаление товара из корзины
+    status: pass
+
+- summary: |
+      Оформление заказа
+    status: pass
+
+- summary: |
+      Поиск по категориям
+    status: pass
+
+- summary: |
+      Поиск по цене товара
+    status: pass
